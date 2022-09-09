@@ -17,10 +17,10 @@ You will be assessed on:
 - Child and Infant tickets cannot be purchased without purchasing an Adult ticket.
 
 | Ticket Type | Price |
-| :---- | :--- |
-|    INFANT        |    Â£0       |
-|    CHILD         |    Â£10      |
-|    ADULT         |    Â£20      |
+| :-------------- | :--- -----|
+|    INFANT     |    Â£0    |
+|    CHILD      |    Â£10   |
+|    ADULT      |    Â£20   |
 ​
 - There is an existing `TicketPaymentService` responsible for taking payments, which should not be modified
 - There is an existing `SeatReservationService` responsible for reserving seats, which should not be modified
