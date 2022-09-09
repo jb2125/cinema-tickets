@@ -1,5 +1,5 @@
 # Objective
-​
+
 This is a coding exercise which will allow you to demonstrate how you code and your approach to a given problem. 
 ​
 You will be assessed on: 
@@ -28,11 +28,11 @@ You will be assessed on:
 - There is an existing `SeatReservationService` responsible for reserving seats, which should not be modified
 ​
 ## Constraints
-​
+
 - The Python code in the `paymentgateway` and `seatbooking` packages CANNOT be modified.
 ​
 ## Assumptions
-​
+
 You can assume:
 - All accounts with an id greater than zero are valid. They also have sufficient funds to pay for any no of tickets.
 - The `TicketPaymentService` implementation is an external provider with no defects. You do not need to worry about how the actual payment happens.
@@ -41,11 +41,11 @@ You can assume:
 - The seat will always be reserved once a reservation request has been made to the `SeatReservationService`.
 ​
 ## Considerations
-​
+
 - Consider how you might make `TicketTypeRequest` an immutable object
 ​
 ## Your Task
-​
+
 Provide a working implementation of a `TicketService` that:
 - Considers the above objective, business rules, constraints & assumptions.
 - Calculates the correct amount for the requested tickets and makes a payment request to the `TicketPaymentService`.  
