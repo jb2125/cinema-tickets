@@ -16,8 +16,8 @@ You will be assessed on:
 - Infants do not pay for a ticket and are not allocated a seat. They will be sitting on an Adult's lap.
 - Child and Infant tickets cannot be purchased without purchasing an Adult ticket.
 ​
-|   Ticket Type    |     Price   |
-| ---------------- | ----------- |
+| Ticket Type | Price |
+| :---- | :--- |
 |    INFANT        |    Â£0       |
 |    CHILD         |    Â£10      |
 |    ADULT         |    Â£20      |
